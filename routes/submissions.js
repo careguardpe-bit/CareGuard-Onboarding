@@ -1,1 +1,77 @@
-const a2_0x3e814f=a2_0x2251;function a2_0x2c3f(){const _0x2a9a48=['WPzpWRSFaW','W5JdILhcMCoz','W6pdPbX8zCo9W7feW51Chr8','W63cIr0dbue7W7RcQSo6F3RdVmoaiNldV8kQ','WP7dK8oRxW','DSoCW4TZv8oWlSoLWOa0','W6/dS8kNAhe','vrrKWPNcMq','vdS1','c8oaW4FdTwVcR8o+wJdcNmkio0/dNdGItGhcKWbAWONdP3vQt8kFW6GtimkzW4apbgxcRISFW5hdOCoQcsP+WR93WQT7W5jFBmk/p8kcWQLPWPn7vrlcTcfXDCoaamoeWOL1WQPsWOOUW7/dOb5AyCo6WRtdVtxdRb7dUcRdUmktkCoteCkpbmolmvddNCkCmCojW6RcJmkTgNZdKJuDW7assmo5pWJdLhZcJMyrWPxdMWXt','CSkTBfBcKq','W4fjW6u+','h8kWwSoBbwT1xmoDWPu','rgOpt8kCrW','WR7dK8oPwmoLnG','WRiSomkXWQreWPtdGM3cSmk8WOBdVG','WOu8ie3cGd4','juH+W5v5DSkQhW','nmozW5hdPxpcT8kjFXlcUmkLja','WRZdKCk4r8ou','c3pcVmobvwfO','wCoQlSo+W48','WPJdPSofl8kGW5xdHSoakG1SW4q','W4zqh0ZdHW7cHSoOWQ9LWQ/cOSoNW4OBemoOWQhcUI4MrXRdLmolW53cKSkzFCkGW4K','W7VdOGRcHCocW47cJZ7dQgWtWQOX','W59hW4hcIHCjdG','EhycW4e9D38','W5dcUetcVSo7WRFdGa','W7a0WR5U','ySkAvf0','kIBdN8kKaG','CbLSW6LgE8kfamoYW5if','W6tdOSkVWQdcP8oQ','WQddRSkRWP3cHmoMkG','xZ/dVSkaccSTqSkaW5xdPSo6WQ0','pHSSWQdcMwm','WQpcP1ddNW','p8opvL3cNLFcKSkqWPFcTWldGa','WOLWWPP9','W5hdJ8kkwMfV','bsOiqCkJvrz5','W6j8DmoN','W5RdILFcImofj0W','W5SCWP7dP2HysL9LWOhdSmoiW4q','W7vOy8oLW7apW5C','FCkquf3cMKlcQa','W5ymW6XudSouWQFdM143','W5aDWP7dP2mEpe5vWQtdMa','WRxdK8k4DCoLvG','W5yTuHLm','W57dSupcRmoN','aLFdGWi','WRH2mtVcSatcSH7cPSk8bG','wI1EW7vk','W7STk8oQW4ldN8ogBhFcUqhcUmkVtYpcMxvihWVdGvzxeSoBW4VcPa','WRxdJhmNiq','WOBdGSk4WOuQlCov','W4SLCca','smolW6WJW4BcMmkWWPO+tCoUW7ePWR0aW60QWQ0dkt0hjdmZWQa','WOyOmu/cId4A','W5LjtSkj','eCoOW6/dG8kn','B2uqW7qy','m34xW5/dR0nXxCorkSoGWQLbdCkLWOPIASkHxg8GpSoWW5POyI7cJSohiwBdKmofi8kSBmkzW5G4bmo4WP8BW6f7aCoGWQjZnSoRW4nVWOtdL8o7WRHXW6fJcCk7W5WgWQNcICkwW4SEW4NdI8k/DYKMW5vTWQWPi27dNrXgkr54ASkylCouW50RWQSTW5Grz8kfWQBcPSobW7NdNmoJWOmSW6PCWQNcKYlcIcRdVNddGwj3W5ZdJcJcI8oMo2rRFmovW5ZdQMjCgWmLcNxcQWFcNSo8W7y9W7OyucWmzeVdLsLwWOflWPz1WQ7dI8kmF8kHWRJcGCkdWQva','WPi4jG','oSoZW53dJ8kq','W781WQnVW5u','mmouW5ddPN7cV8kpDZdcL8kCha','ExyFW5uOEa','W7X3W5aqnW','W6FdQr1/Amo1W7DmW79ZjcC','WPxdPCoekCkHW57cM8oWlbbeW4pcJW','lqZdOSkZgG','eSofW6NdR8kq','WPVdIHNdHaHxBNddOmkUW6RcJSov','WO7dN8k7WPK5pSod','qmkcbSoEEa','WRRcOf7dHCkeWO0'];a2_0x2c3f=function(){return _0x2a9a48;};return a2_0x2c3f();}(function(_0x5543b6,_0x12ec05){const _0x4dfcbc=a2_0x2251,_0x1efd1a=_0x5543b6();while(!![]){try{const _0xc8f9f6=-parseInt(_0x4dfcbc(0x118,'$PRF'))/0x1+parseInt(_0x4dfcbc(0x102,'S1yS'))/0x2+-parseInt(_0x4dfcbc(0xe4,'K7oj'))/0x3+parseInt(_0x4dfcbc(0xe0,'V2Lw'))/0x4+-parseInt(_0x4dfcbc(0xdd,'1oAz'))/0x5*(-parseInt(_0x4dfcbc(0xef,'DB]3'))/0x6)+parseInt(_0x4dfcbc(0xe6,'KKFI'))/0x7*(-parseInt(_0x4dfcbc(0xf6,'ANLH'))/0x8)+-parseInt(_0x4dfcbc(0xda,'cJ6A'))/0x9*(-parseInt(_0x4dfcbc(0x111,'V2Lw'))/0xa);if(_0xc8f9f6===_0x12ec05)break;else _0x1efd1a['push'](_0x1efd1a['shift']());}catch(_0x160176){_0x1efd1a['push'](_0x1efd1a['shift']());}}}(a2_0x2c3f,0xcae88));function a2_0x2251(_0x3864a0,_0x33d189){const _0x2c3f7c=a2_0x2c3f();return a2_0x2251=function(_0x22515f,_0x50c212){_0x22515f=_0x22515f-0xd5;let _0x1e0bd6=_0x2c3f7c[_0x22515f];if(a2_0x2251['mltPgv']===undefined){var _0x4a94ef=function(_0x42aa8d){const _0x30a4cd='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x59a7ef='',_0x3158a6='';for(let _0x36ff71=0x0,_0x2c920d,_0x31a9ea,_0x1d241b=0x0;_0x31a9ea=_0x42aa8d['charAt'](_0x1d241b++);~_0x31a9ea&&(_0x2c920d=_0x36ff71%0x4?_0x2c920d*0x40+_0x31a9ea:_0x31a9ea,_0x36ff71++%0x4)?_0x59a7ef+=String['fromCharCode'](0xff&_0x2c920d>>(-0x2*_0x36ff71&0x6)):0x0){_0x31a9ea=_0x30a4cd['indexOf'](_0x31a9ea);}for(let _0x2ac81f=0x0,_0x102a96=_0x59a7ef['length'];_0x2ac81f<_0x102a96;_0x2ac81f++){_0x3158a6+='%'+('00'+_0x59a7ef['charCodeAt'](_0x2ac81f)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x3158a6);};const _0x15a238=function(_0x1ef872,_0x7aa95d){let _0x4e0b6e=[],_0x31e743=0x0,_0x1f2054,_0x36bc74='';_0x1ef872=_0x4a94ef(_0x1ef872);let _0x2d8da4;for(_0x2d8da4=0x0;_0x2d8da4<0x100;_0x2d8da4++){_0x4e0b6e[_0x2d8da4]=_0x2d8da4;}for(_0x2d8da4=0x0;_0x2d8da4<0x100;_0x2d8da4++){_0x31e743=(_0x31e743+_0x4e0b6e[_0x2d8da4]+_0x7aa95d['charCodeAt'](_0x2d8da4%_0x7aa95d['length']))%0x100,_0x1f2054=_0x4e0b6e[_0x2d8da4],_0x4e0b6e[_0x2d8da4]=_0x4e0b6e[_0x31e743],_0x4e0b6e[_0x31e743]=_0x1f2054;}_0x2d8da4=0x0,_0x31e743=0x0;for(let _0x4811f2=0x0;_0x4811f2<_0x1ef872['length'];_0x4811f2++){_0x2d8da4=(_0x2d8da4+0x1)%0x100,_0x31e743=(_0x31e743+_0x4e0b6e[_0x2d8da4])%0x100,_0x1f2054=_0x4e0b6e[_0x2d8da4],_0x4e0b6e[_0x2d8da4]=_0x4e0b6e[_0x31e743],_0x4e0b6e[_0x31e743]=_0x1f2054,_0x36bc74+=String['fromCharCode'](_0x1ef872['charCodeAt'](_0x4811f2)^_0x4e0b6e[(_0x4e0b6e[_0x2d8da4]+_0x4e0b6e[_0x31e743])%0x100]);}return _0x36bc74;};a2_0x2251['FvAfiT']=_0x15a238,_0x3864a0=arguments,a2_0x2251['mltPgv']=!![];}const _0x2836dc=_0x2c3f7c[0x0],_0x1a844e=_0x22515f+_0x2836dc,_0xdc4674=_0x3864a0[_0x1a844e];return!_0xdc4674?(a2_0x2251['KzKevX']===undefined&&(a2_0x2251['KzKevX']=!![]),_0x1e0bd6=a2_0x2251['FvAfiT'](_0x1e0bd6,_0x50c212),_0x3864a0[_0x1a844e]=_0x1e0bd6):_0x1e0bd6=_0xdc4674,_0x1e0bd6;},a2_0x2251(_0x3864a0,_0x33d189);}const express=require(a2_0x3e814f(0xe2,'M%]%')),router=express[a2_0x3e814f(0xdc,'Ziq]')](),pool=require(a2_0x3e814f(0x11f,'Tj33'));router[a2_0x3e814f(0xd9,'$5)W')]('/',async(_0x4719fb,_0xe3da27)=>{const _0x3eaf4e=a2_0x3e814f,_0x8d3680={};_0x8d3680[_0x3eaf4e(0x105,'Tj33')]='SELECT\x20id\x20FROM\x20users\x20WHERE\x20email\x20=\x20$1',_0x8d3680[_0x3eaf4e(0x10c,'a@1E')]=function(_0x3d67a9,_0x457636){return _0x3d67a9===_0x457636;},_0x8d3680['GQajK']='Usuario\x20no\x20encontrado',_0x8d3680[_0x3eaf4e(0x10b,'zsb]')]=function(_0x11cb46,_0x516e08){return _0x11cb46*_0x516e08;},_0x8d3680[_0x3eaf4e(0x116,'sdY4')]='Postulación\x20enviada\x20correctamente',_0x8d3680[_0x3eaf4e(0xe3,'22be')]=_0x3eaf4e(0x108,'k#42'),_0x8d3680[_0x3eaf4e(0x11a,'24!r')]=_0x3eaf4e(0x104,'$af$');const _0x64707b=_0x8d3680;try{const {user_email:_0x1dc4bd,terms_accepted:_0x19b0ba}=_0x4719fb['body'],_0x1f321b=await pool['query'](_0x64707b['vkAGK'],[_0x1dc4bd]);if(_0x64707b[_0x3eaf4e(0xe1,'D0R&')](_0x1f321b[_0x3eaf4e(0xeb,'ccDB')][_0x3eaf4e(0x112,'a@1E')],0x0)){const _0x3fc5ad={};return _0x3fc5ad['success']=![],_0x3fc5ad[_0x3eaf4e(0xfb,'ccDB')]=_0x64707b[_0x3eaf4e(0x10f,'zsb]')],_0xe3da27[_0x3eaf4e(0xfe,'D0R&')](0x194)[_0x3eaf4e(0xea,'p(V2')](_0x3fc5ad);}const _0x19a0ae=_0x1f321b[_0x3eaf4e(0x107,'Ma(D')][0x0]['id'],_0x44a41c=_0x3eaf4e(0xd6,'gxEd')+new Date()[_0x3eaf4e(0xed,'gxEd')]()+'-'+Math['floor'](_0x64707b[_0x3eaf4e(0xd5,'[$E[')](Math[_0x3eaf4e(0xee,'DB]3')](),0xf423f))['toString']()['padStart'](0x6,'0'),_0xf133c2=_0x3eaf4e(0xd7,'V2Lw'),_0x264f2a=await pool[_0x3eaf4e(0x11c,'#spW')](_0xf133c2,[_0x19a0ae,_0x44a41c,_0x19b0ba]),_0x442512={};_0x442512['success']=!![],_0x442512['data']=_0x264f2a[_0x3eaf4e(0x120,'Ziq]')][0x0],_0x442512['message']=_0x64707b[_0x3eaf4e(0xd8,'ccDB')],_0xe3da27[_0x3eaf4e(0x11b,'KKFI')](0xc8)[_0x3eaf4e(0x101,'yf2q')](_0x442512);}catch(_0xcb263){console[_0x3eaf4e(0x110,'p(V2')](_0x64707b[_0x3eaf4e(0x100,'#Z*M')],_0xcb263);const _0x346982={};_0x346982[_0x3eaf4e(0xfa,'1oAz')]=![],_0x346982[_0x3eaf4e(0xe9,'M@0r')]=_0x64707b[_0x3eaf4e(0x122,'NHb9')],_0x346982['error']=_0xcb263[_0x3eaf4e(0x106,'DtJB')],_0xe3da27[_0x3eaf4e(0xf1,'7o^Q')](0x1f4)[_0x3eaf4e(0xf2,'KKFI')](_0x346982);}}),router[a2_0x3e814f(0x10e,'N7z$')](a2_0x3e814f(0xf3,'ccDB'),async(_0x662987,_0x413331)=>{const _0x32922b=a2_0x3e814f,_0x2f649a={};_0x2f649a[_0x32922b(0x113,'$5)W')]=_0x32922b(0xe5,'xXe]'),_0x2f649a[_0x32922b(0xff,'Ma(D')]='Error\x20al\x20obtener\x20postulaciones';const _0x23b489=_0x2f649a;try{const _0x219051=_0x32922b(0x10d,'[$E['),_0x48587c=await pool[_0x32922b(0x11d,'#Z*M')](_0x219051,[_0x662987[_0x32922b(0xde,'N7z$')][_0x32922b(0x121,'TWKk')]]),_0x2ca48={};_0x2ca48[_0x32922b(0x109,'N7z$')]=!![],_0x2ca48[_0x32922b(0xf7,'1oAz')]=_0x48587c['rows'],_0x413331[_0x32922b(0xdb,'ANLH')](0xc8)[_0x32922b(0x10a,'Bp4a')](_0x2ca48);}catch(_0x2b487c){console[_0x32922b(0xec,'sdY4')](_0x23b489[_0x32922b(0x103,'gxEd')],_0x2b487c);const _0x52a078={};_0x52a078[_0x32922b(0xf8,'#Z*M')]=![],_0x52a078[_0x32922b(0xe8,'a@1E')]=_0x23b489[_0x32922b(0x117,'zsb]')],_0x413331[_0x32922b(0xf5,'NHb9')](0x1f4)[_0x32922b(0xf4,'6Fjz')](_0x52a078);}}),module[a2_0x3e814f(0x119,'DtJB')]=router;
+const express = require('express');
+const router = express.Router();
+const pool = require('../config/database');
+
+// POST /api/submissions - Crear nueva postulación
+router.post('/', async (req, res) => {
+  try {
+    const { user_email, terms_accepted } = req.body;
+    
+    // Buscar usuario
+    const userResult = await pool.query('SELECT id FROM users WHERE email = $1', [user_email]);
+    
+    if (userResult.rows.length === 0) {
+      return res.status(404).json({
+        success: false,
+        message: 'Usuario no encontrado'
+      });
+    }
+
+    const userId = userResult.rows[0].id;
+    
+    // Generar número de referencia
+    const referenceNumber = `CG-${new Date().getFullYear()}-${Math.floor(Math.random() * 999999).toString().padStart(6, '0')}`;
+
+    // Crear postulación
+    const insertQuery = `
+      INSERT INTO submissions (user_id, reference_number, terms_accepted)
+      VALUES ($1, $2, $3)
+      RETURNING *
+    `;
+
+    const result = await pool.query(insertQuery, [userId, referenceNumber, terms_accepted]);
+
+    res.status(200).json({
+      success: true,
+      data: result.rows[0],
+      message: 'Postulación enviada correctamente'
+    });
+
+  } catch (error) {
+    console.error('Error creando postulación:', error);
+    res.status(500).json({
+      success: false,
+      message: 'Error al enviar postulación',
+      error: error.message
+    });
+  }
+});
+
+// GET /api/submissions/:user_email - Obtener postulaciones de un usuario
+router.get('/:user_email', async (req, res) => {
+  try {
+    const query = `
+      SELECT s.*, u.nombre, u.email 
+      FROM submissions s
+      JOIN users u ON s.user_id = u.id
+      WHERE u.email = $1
+      ORDER BY s.submission_date DESC
+    `;
+    
+    const result = await pool.query(query, [req.params.user_email]);
+    
+    res.status(200).json({
+      success: true,
+      data: result.rows
+    });
+    
+  } catch (error) {
+    console.error('Error obteniendo postulaciones:', error);
+    res.status(500).json({
+      success: false,
+      message: 'Error al obtener postulaciones'
+    });
+  }
+});
+
+module.exports = router;
