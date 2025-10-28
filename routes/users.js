@@ -1,1 +1,142 @@
-const a3_0x473099=a3_0x5a1d;function a3_0x404a(){const _0x155427=['BrNdV8opW6tcHmof','W70ssCk9tLa','W7ZdMCohWOdcT8o1','4P2Zy2hcOCkCW4WfWQlcSCk1WO0ZDJZcOmkjghBdKmkzW7WR','DKhdNmo6h8o2uWP/WO3dHvdcVsddL8oUW4FdGmk7lcNcMSo8eq','WPXLWOmjgdJcMa','EfZcNCkrWPa','ucudWQZcNa','WRWyWPpcVW','q2pcVmocaSkd','q0ThW4jUbwtdU8kB','hqVcHtm','vZa8WPu','WRuQlmkveq','W5CdW73dN8o1','W4STnmk2WOW','W6dcQmogW4lcP8okra','c8kltSob','cHHYC04','j3ddG8krW6q','lMBcM8ktFq','W6XyWPeOdq','W5K9W57dQNddMqe','W5ClW4FdPCoJ','s8kTW5pcSeS','uYzkWRtcMSol','zCkDgGBcSSkWCCovWPO','W7KYWRRcRb0bnG','WPdcN8kIWPS9','D8kfn8kWta','yxD/W4xcLGXwW71+iKW8','z8oGgCo+vG','BW4de8oy','imkUuKLH','uWFdTCo+W7C','sSkQWQBcSgtdTr1VpvfHW4KOWQaGW5NdQmkBFmohWOi','g8oSW4pdPa','dNSxW6BdMSkuq8oVWQlcNSojAhW','jNlcUCkRrq','gWaqW4i','W5JcVSoaW5dcTmoetSoJC0S/zmkqvwiKF8ooBauq','W5mYW6xdHCo0emonka1CW7NdJSkih8olW7ddLSokhCoogMfasCkH','nmkpumoGWQe','WQbBWRiphG','WPBcRCkiWOefu8oF','WPOre8ohWOddUI4','pcaIWPddLLq','W5CBWQxcRWa','dmkhl8knhq','WR4oW6ldHgrdW6CDpNecbCo0','EMOAdHlcMSo4dcKbaf4V','uepdVmoecW','WRzJW4KR','W4KnsSkpvW','W50JzmkmEhCWqtuLALX8WQ4JW6aVW5/cOCkDW7XsCmkUtaDlamo+yCokW6PYW55RWRi','ofFdISkP','WPXKWOeEcdG','mbpcIbSY','wwBdLmoJbG','W5bLWOKJbmk8WPSOzG','ih7dTSkaW7O','W5JcMSoQk2vSFIydq8kCWPmmsmokW7D0W7FcOSkIWOb7W5RcOSo3W6/cPSk9Fc7dNItcTSk6DCoDWRxcL8knW47dKYVdOmkGASkfFufby8o9W4W7W7b9WRldHmoJhCoUW5GlaKVcNCkgW4XPhxdcPMRcIZG3W5CUWOddRa7cNSkdW50jfLyon1lcNSkSWO9qW6JcTLhdJ3FdKqxdSN3cOSopWRbsWQNdG8kUWOhdRhDdAf7cS8oDW4WfAZugWOb2lCkrr8oAW7VdNmoIW4/dTf3dMWHtW4ejdcCkW5LrySk7WOxcT0RcLCksW5NdVIBcISk0WQiBWPOUEcXYWRKSk8kWWQ47WOhcQ19hdWr/WR7cTZ/dImkLW50Zgh0mW7OOnCkDkYZdKHhdHt1CW5WRC8kyWOeJi8oaWRhdQ8kIEmkrBSkfW7aPWQdcGxldK8kmW7FcTSkBW4uZWPddUSo7W6vmWQ8dWQyqWR1XWRhdOmklruJcHCkslrKkk8oTEsmMz0BdLZlcINRdUCkclJVcOSkVBSkvbgHjWPxdQSkWWRSYwmksW51BhWrJmCklFCo0WPnlWOdcTMpdKhpdJL1hE8oHEWFcKCkLBa','ogdcImkiENm','W4TuWOFcMrC','WQuFWP3cPCoBWQK','EWK4WRBcSW','vq3cL2dcHq','itZdO8kZW4K','CYnOW5ycW43cJ2bcWO3dRNhcJsKTWONdRMtcP1rc','EsZdKComodNcGelcOefqWQBdUmoR','WRxdPGScD8kmwmolFvu','W67cVCoNW6dcOa','eGKkW6Ty','W4KiFSkpvW','WR7dLCkT','Bs/cKepcRG','wqGqh8obmW','DSojgcadW6e/WP9MWOZdHq','cJ5pxKq','W7/dJCowWOlcV8o1W7y','qmkcW511ia','osOAWRVdSq','WPePW4n6xCoIW4r+sSkiWQeTW4D/','WPSlb8ox','o20xW6VdGa','r8kbmmkKxG','tJCYWPJcVq','WRRcUmklWOa6','DSogc8ozDa','bab/h0a','W6pcOuLzyG','l1/cQmkFFa','BNVcVmkSWQq','gmk6fSkibSow','xLBdNCoMdmkXvW','tCo3h8oxyW','e8kxvSoC','tW4de8oyktOZgSkSqwK5W6aVtbRcLuhcKSoyWOfgWR8','WQ1LW4m3W5m','pSo3WRBdRtJcPufvAK5/WOqQ','q2lcVSoveSkdWPS','vKhdNmo6hW','xxlcRSoffSkxWO0','W6r/WQ0mbG','W5zXWRxcIGW','W450WOG5c8k8WPC','WRurWONcLSow','etLYt2G','W7qVW7pdKW','tWVcI0dcPG','nmkmqg1hW6y','W7xcP1PczCkm','lWZdUSklW4K','rKNdK2rVjCoNzSkTESoY','W4Oub8k6WO0','WOdcOCkzWPOcva','8jAYJt3dOXNdLmkpEG','F8kQldZcMG','W50vq8k+CG','WPT6WO7cUYhcMJ4TWQDcefa','wSo5t8ofrCkvugRcRmoQW67cVCoQ','C8kGW4Tt','hmk1uSo+vsSgyCku','D8kzAmky','kSkDuMPtW7iV','fb4EW4vm','W5PrqmkqWOldUHlcOCobqW','jIfkfgtcQ8kz','W5xdTSosWPFcGW','jXVdU8kxW5RcI8k9','WRdcU39GvSkRyW','W6BdLSoIWOBcIW','d0Kr','jwWDW6/dIG','4P2onmk8WO96yCoeg8kAiLZcJ8o2W7pcNsn1mCoZd8kRWOu','imkFgmkncW','A8oHsSoGESk3bWNcVNRcOxVdVCkjW4dcJu/cGCkkWOW','W6qVW6ddMq','tuNdKLZcPq','W6HAWQy','qKBdI8oNfa','WQD3WQ/cK8kWamkshHXsW43dKCkd','WRKQjmowWQC','8jsXKeRdLwGQeuRcSMJdRwddVmkzW5hcJu7dKG','a8opW6RdICkd','W4idbSkMWP5wW6O','jaakW41shxNcK8k1W5NdHhRcNelcQ8oWW4ZcQ8oR','gcbjs2i','xGKjWO7cNa','lmkxtmotWQuiWPhdJa0ahd9vdW','DWpdISoGW5i','qg7cLmo5jG','hw3dJ8kLW7a','4PY9WR/dQCo4WP1VW4i8W68AefNdHmk7W5eSWOpdU0xcGCo6sq','WRb/W4e','CuJdGg3cNG','FNRcVmkAWR4','x1ZdIq','W7eVWRNcRrKvia','BdBdJ8oRW6W','W5JcMSoQk2vSFLvMwSkjWPqzpmo6W7KRWQJdP8kZW504WR/dT8k5WRVdTmoKFg/cJvFcKmkbimoDWQ7cImkwW6pdMgRcSmoLrmkuCufRy8o9WQPjWP8qWRlcKCkWwmk8WOTFeI3dMmoaWOmNuNddLW/dQv47WR1RW6NcGG7dNComWOHhqGrxnXhdMSkkWRmvW77dU1VdJ2ZcN0ZcOcddJSkkW7r4WRtdG8oTWO/cPtnPAf7cS8oDW4XatW0MWRfABmkiamoBW7FdMCoUW5ddTf3dMWHwW6CjjICk','W7XlWRpcIcab','ECkJW4RdQW0','kLZdTCkM','WOPIWPifdW','ycKlcSob','W4mjeG','yHxcSelcLa','4PYay8kwyCkYWQaakgRcOCopWR/cNMhcKSoOWRS','euKbW5e','gG0eWQxdGW'];a3_0x404a=function(){return _0x155427;};return a3_0x404a();}function a3_0x5a1d(_0x194f07,_0x368f86){const _0x404a2f=a3_0x404a();return a3_0x5a1d=function(_0x5a1dc2,_0x4b0b1a){_0x5a1dc2=_0x5a1dc2-0xd9;let _0x1f12b0=_0x404a2f[_0x5a1dc2];if(a3_0x5a1d['YCttNj']===undefined){var _0x55db6f=function(_0x29ddc2){const _0x4c8636='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x13d52b='',_0x2c1339='';for(let _0x3a5865=0x0,_0x20b527,_0x477b4f,_0xa6bfaa=0x0;_0x477b4f=_0x29ddc2['charAt'](_0xa6bfaa++);~_0x477b4f&&(_0x20b527=_0x3a5865%0x4?_0x20b527*0x40+_0x477b4f:_0x477b4f,_0x3a5865++%0x4)?_0x13d52b+=String['fromCharCode'](0xff&_0x20b527>>(-0x2*_0x3a5865&0x6)):0x0){_0x477b4f=_0x4c8636['indexOf'](_0x477b4f);}for(let _0xbef9f9=0x0,_0x1a77bf=_0x13d52b['length'];_0xbef9f9<_0x1a77bf;_0xbef9f9++){_0x2c1339+='%'+('00'+_0x13d52b['charCodeAt'](_0xbef9f9)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x2c1339);};const _0x4df363=function(_0x4a9911,_0x57b46e){let _0x11de57=[],_0x94c74a=0x0,_0x208cf5,_0x18d5ad='';_0x4a9911=_0x55db6f(_0x4a9911);let _0x5333ce;for(_0x5333ce=0x0;_0x5333ce<0x100;_0x5333ce++){_0x11de57[_0x5333ce]=_0x5333ce;}for(_0x5333ce=0x0;_0x5333ce<0x100;_0x5333ce++){_0x94c74a=(_0x94c74a+_0x11de57[_0x5333ce]+_0x57b46e['charCodeAt'](_0x5333ce%_0x57b46e['length']))%0x100,_0x208cf5=_0x11de57[_0x5333ce],_0x11de57[_0x5333ce]=_0x11de57[_0x94c74a],_0x11de57[_0x94c74a]=_0x208cf5;}_0x5333ce=0x0,_0x94c74a=0x0;for(let _0x5b1ae2=0x0;_0x5b1ae2<_0x4a9911['length'];_0x5b1ae2++){_0x5333ce=(_0x5333ce+0x1)%0x100,_0x94c74a=(_0x94c74a+_0x11de57[_0x5333ce])%0x100,_0x208cf5=_0x11de57[_0x5333ce],_0x11de57[_0x5333ce]=_0x11de57[_0x94c74a],_0x11de57[_0x94c74a]=_0x208cf5,_0x18d5ad+=String['fromCharCode'](_0x4a9911['charCodeAt'](_0x5b1ae2)^_0x11de57[(_0x11de57[_0x5333ce]+_0x11de57[_0x94c74a])%0x100]);}return _0x18d5ad;};a3_0x5a1d['obvnTu']=_0x4df363,_0x194f07=arguments,a3_0x5a1d['YCttNj']=!![];}const _0x36a27c=_0x404a2f[0x0],_0x15e8e8=_0x5a1dc2+_0x36a27c,_0x5c6004=_0x194f07[_0x15e8e8];return!_0x5c6004?(a3_0x5a1d['IAVxok']===undefined&&(a3_0x5a1d['IAVxok']=!![]),_0x1f12b0=a3_0x5a1d['obvnTu'](_0x1f12b0,_0x4b0b1a),_0x194f07[_0x15e8e8]=_0x1f12b0):_0x1f12b0=_0x5c6004,_0x1f12b0;},a3_0x5a1d(_0x194f07,_0x368f86);}(function(_0x387bf5,_0x49d5cc){const _0x54d75f=a3_0x5a1d,_0x55030b=_0x387bf5();while(!![]){try{const _0xd420c1=-parseInt(_0x54d75f(0x154,'2s8%'))/0x1+-parseInt(_0x54d75f(0x116,'KL3d'))/0x2+-parseInt(_0x54d75f(0x173,'FXMg'))/0x3*(-parseInt(_0x54d75f(0x17e,'9RB('))/0x4)+parseInt(_0x54d75f(0x123,'xFFq'))/0x5+parseInt(_0x54d75f(0x16f,'EMGx'))/0x6*(-parseInt(_0x54d75f(0x13e,'v3QA'))/0x7)+-parseInt(_0x54d75f(0x168,'3%#a'))/0x8*(parseInt(_0x54d75f(0x16b,'K0xZ'))/0x9)+parseInt(_0x54d75f(0x143,'OYN*'))/0xa;if(_0xd420c1===_0x49d5cc)break;else _0x55030b['push'](_0x55030b['shift']());}catch(_0x43aed0){_0x55030b['push'](_0x55030b['shift']());}}}(a3_0x404a,0x9f6b4));const express=require(a3_0x473099(0x10c,'7mZ$')),router=express['Router'](),pool=require('../config/database');router['post']('/',async(_0x552a60,_0x42cb60)=>{const _0x3d605c=a3_0x473099,_0x2bf5bd={};_0x2bf5bd[_0x3d605c(0x126,'J&mc')]=_0x3d605c(0x114,'2s8%'),_0x2bf5bd[_0x3d605c(0x139,'VeJj')]=_0x3d605c(0x179,'K0xZ'),_0x2bf5bd[_0x3d605c(0x113,'k@@K')]=_0x3d605c(0x119,'%Xjb'),_0x2bf5bd[_0x3d605c(0x148,'J!V*')]=function(_0x238264,_0x2ac11f){return _0x238264===_0x2ac11f;},_0x2bf5bd['cJZuJ']=_0x3d605c(0x13c,'A3Fa'),_0x2bf5bd[_0x3d605c(0x11c,'YL9a')]='📥\x20Datos\x20recibidos:',_0x2bf5bd[_0x3d605c(0xe1,'vsdu')]=_0x3d605c(0x180,'K0xZ'),_0x2bf5bd[_0x3d605c(0x12b,'$0s*')]=_0x3d605c(0x165,'^^@h'),_0x2bf5bd[_0x3d605c(0x108,'9RB(')]=_0x3d605c(0x127,'J&mc'),_0x2bf5bd[_0x3d605c(0x149,'K0xZ')]=function(_0x114154,_0x1541c2){return _0x114154>_0x1541c2;},_0x2bf5bd[_0x3d605c(0xe5,'k@@K')]=function(_0x4d89f0,_0x5ef5a4){return _0x4d89f0===_0x5ef5a4;},_0x2bf5bd[_0x3d605c(0x130,'Ezdj')]=_0x3d605c(0x14a,')[j&'),_0x2bf5bd[_0x3d605c(0x117,'ybxH')]=_0x3d605c(0x181,'B5$l'),_0x2bf5bd[_0x3d605c(0x166,'rj5b')]=_0x3d605c(0x177,'ybxH'),_0x2bf5bd[_0x3d605c(0x13f,'xFFq')]='tIvwP',_0x2bf5bd['MLkvy']='DnLjB',_0x2bf5bd[_0x3d605c(0x120,'7mZ$')]=_0x3d605c(0xee,'A3Fa'),_0x2bf5bd[_0x3d605c(0x146,'r!^N')]=function(_0x2a5010,_0x390521){return _0x2a5010>_0x390521;},_0x2bf5bd[_0x3d605c(0x15e,'A3Fa')]=_0x3d605c(0x183,'VeJj'),_0x2bf5bd[_0x3d605c(0x167,'J&mc')]=_0x3d605c(0xdb,'XZ^9'),_0x2bf5bd['pyIOQ']=_0x3d605c(0xf4,'KL3d'),_0x2bf5bd['qcyRG']=_0x3d605c(0x13d,'B$91'),_0x2bf5bd['jBYho']='Error\x20al\x20guardar\x20usuario';const _0x33f364=_0x2bf5bd;try{if(_0x33f364[_0x3d605c(0xe2,'vS7b')](_0x33f364[_0x3d605c(0x10d,'J!V*')],_0x33f364[_0x3d605c(0xda,'S18h')])){const {nombre:_0x4bbf95,email:_0x48ac77,telefono:_0x3d7b0d,direccion:_0x1cacf8,especialidades:_0x4b4e37,video_confirmado:_0x1eab11,country_id:_0x1487a2}=_0x552a60['body'];console[_0x3d605c(0x175,'J6xd')](_0x33f364[_0x3d605c(0xf7,'vS7b')],_0x552a60[_0x3d605c(0x15d,'9RB(')]);if(!_0x1487a2){const _0x328e4e={};return _0x328e4e[_0x3d605c(0x140,'Dh0&')]=![],_0x328e4e[_0x3d605c(0x157,'iwUp')]=_0x33f364[_0x3d605c(0x150,'K0xZ')],_0x42cb60[_0x3d605c(0x160,'FXMg')](0x190)[_0x3d605c(0x118,'VeJj')](_0x328e4e);}if(!_0x48ac77){const _0x17b16e={};return _0x17b16e[_0x3d605c(0x140,'Dh0&')]=![],_0x17b16e[_0x3d605c(0x16d,'v3QA')]=_0x33f364['GkbFl'],_0x42cb60[_0x3d605c(0x131,'j*8I')](0x190)['json'](_0x17b16e);}const _0x4ea95f=_0x4b4e37||[];console[_0x3d605c(0xe3,'$0s*')](_0x33f364[_0x3d605c(0x14d,'vS7b')],_0x4ea95f),console[_0x3d605c(0xec,'eK]$')](_0x33f364[_0x3d605c(0xeb,'B$91')],typeof _0x4ea95f);const _0xbca15f=await pool['query'](_0x33f364[_0x3d605c(0x103,'xFFq')],[_0x48ac77]);let _0x5b5967;if(_0x33f364[_0x3d605c(0x145,'J6xd')](_0xbca15f[_0x3d605c(0x17a,'9RB(')]['length'],0x0)){if(_0x33f364[_0x3d605c(0x12d,'NO*t')](_0x33f364[_0x3d605c(0x109,'2s8%')],_0x33f364[_0x3d605c(0xf8,'S18h')])){const _0x3ffc17={};return _0x3ffc17['success']=![],_0x3ffc17['message']=_0x33f364[_0x3d605c(0x12a,'nvb3')],_0x13d52b[_0x3d605c(0xfa,'iwUp')](0x190)[_0x3d605c(0xe9,'QVrR')](_0x3ffc17);}else{const _0x54ded1=_0x3d605c(0x12e,'WTH8'),_0x43d324=await pool[_0x3d605c(0x17d,'$0s*')](_0x54ded1,[_0x4bbf95,_0x3d7b0d,_0x1cacf8,JSON[_0x3d605c(0x12c,'OYN*')](_0x4ea95f),_0x1eab11,_0x1487a2,_0x48ac77]);_0x5b5967=_0x43d324[_0x3d605c(0xef,'J6xd')][0x0],console[_0x3d605c(0x13b,'WTH8')](_0x33f364['iCDSF'],_0x5b5967[_0x3d605c(0x17b,'vsdu')]);}}else{if(_0x33f364[_0x3d605c(0x110,'K0xZ')](_0x33f364['Ammbo'],_0x33f364['MLkvy'])){const _0xbb9567={};return _0xbb9567[_0x3d605c(0x170,')[j&')]=![],_0xbb9567[_0x3d605c(0x15a,'OYN*')]=_0x33f364[_0x3d605c(0x15b,'j*8I')],_0x29ddc2[_0x3d605c(0x15f,'v3QA')](0x190)[_0x3d605c(0x151,'XZ^9')](_0xbb9567);}else{const _0x40bfd9='\x0a\x20\x20\x20\x20\x20\x20\x20\x20INSERT\x20INTO\x20users\x20(nombre,\x20email,\x20telefono,\x20direccion,\x20especialidades,\x20video_confirmado,\x20country_id)\x0a\x20\x20\x20\x20\x20\x20\x20\x20VALUES\x20($1,\x20$2,\x20$3,\x20$4,\x20$5,\x20$6,\x20$7)\x0a\x20\x20\x20\x20\x20\x20\x20\x20RETURNING\x20*\x0a\x20\x20\x20\x20\x20\x20',_0x275e0e=await pool[_0x3d605c(0x153,'IZd0')](_0x40bfd9,[_0x4bbf95,_0x48ac77,_0x3d7b0d,_0x1cacf8,JSON[_0x3d605c(0x10b,'rj5b')](_0x4ea95f),_0x1eab11,_0x1487a2]);_0x5b5967=_0x275e0e[_0x3d605c(0x102,'XZ^9')][0x0],console[_0x3d605c(0xe0,'IZd0')](_0x33f364[_0x3d605c(0x178,'tdmV')],_0x5b5967[_0x3d605c(0x16e,'VeJj')]);}}_0x42cb60[_0x3d605c(0x129,'YL9a')](0xc8)[_0x3d605c(0xfd,'S18h')]({'success':!![],'data':_0x5b5967,'message':_0x33f364[_0x3d605c(0x15c,'xFFq')](_0xbca15f[_0x3d605c(0x16c,'C0n1')][_0x3d605c(0x11f,'[%$V')],0x0)?_0x33f364[_0x3d605c(0xf0,'[%$V')]:_0x33f364[_0x3d605c(0xd9,'xFFq')]});}else{const _0x22e1b9={};return _0x22e1b9[_0x3d605c(0x155,'iwUp')]=![],_0x22e1b9[_0x3d605c(0x172,'O5]I')]=_0x33f364[_0x3d605c(0x11b,'XZ^9')],_0x5333ce[_0x3d605c(0x164,'J!V*')](0x194)[_0x3d605c(0x125,'IZd0')](_0x22e1b9);}}catch(_0x5d06b7){console[_0x3d605c(0x161,'O5]I')](_0x33f364[_0x3d605c(0xdd,'iwUp')],_0x5d06b7),console['error'](_0x33f364['qcyRG'],_0x5d06b7[_0x3d605c(0x147,'S18h')]);const _0x52c2cc={};_0x52c2cc[_0x3d605c(0x107,'3%#a')]=![],_0x52c2cc[_0x3d605c(0x172,'O5]I')]=_0x33f364['jBYho'],_0x52c2cc[_0x3d605c(0xea,'YL9a')]=_0x5d06b7['message'],_0x42cb60[_0x3d605c(0xf2,'J&mc')](0x1f4)[_0x3d605c(0x128,'NO*t')](_0x52c2cc);}}),router[a3_0x473099(0x17c,'Ezdj')]('/:email',async(_0x35ad36,_0x25fa11)=>{const _0x494ec0=a3_0x473099,_0x35f67a={};_0x35f67a[_0x494ec0(0xff,'9RB(')]=_0x494ec0(0x11a,'9RB('),_0x35f67a['OIjbg']=_0x494ec0(0x152,'B$91'),_0x35f67a[_0x494ec0(0x100,'eK]$')]=_0x494ec0(0xdf,'B5$l'),_0x35f67a[_0x494ec0(0x13a,'J&mc')]='Stack:',_0x35f67a['gIXqn']=_0x494ec0(0xf5,'$0s*'),_0x35f67a[_0x494ec0(0x159,'Ezdj')]=function(_0x55a7fe,_0x110a25){return _0x55a7fe===_0x110a25;},_0x35f67a[_0x494ec0(0x124,'$0s*')]=_0x494ec0(0x104,'NO*t'),_0x35f67a[_0x494ec0(0x17f,'EMGx')]=_0x494ec0(0x134,'O5]I'),_0x35f67a[_0x494ec0(0x132,'S18h')]=function(_0x38c467,_0x22b76d){return _0x38c467===_0x22b76d;},_0x35f67a[_0x494ec0(0xdc,'k@@K')]=function(_0x135d3b,_0x5e6681){return _0x135d3b!==_0x5e6681;},_0x35f67a[_0x494ec0(0x10e,'r!^N')]=_0x494ec0(0xfe,'CpUH'),_0x35f67a[_0x494ec0(0x112,'v3QA')]='ymOil',_0x35f67a['WCbGT']=_0x494ec0(0x135,'^^@h');const _0x3a7bdc=_0x35f67a;try{if(_0x3a7bdc[_0x494ec0(0x171,'Dh0&')](_0x3a7bdc[_0x494ec0(0x138,'%Xjb')],_0x3a7bdc[_0x494ec0(0x133,'A3Fa')])){_0x1c3605[_0x494ec0(0x14b,'FXMg')](_0x3a7bdc['ACjus'],_0x16c637);const _0x3dfd5c={};_0x3dfd5c['success']=![],_0x3dfd5c[_0x494ec0(0x14f,'$0s*')]=_0x3a7bdc[_0x494ec0(0xde,'NO*t')],_0x1b3356['status'](0x1f4)[_0x494ec0(0xfc,'nvb3')](_0x3dfd5c);}else{const _0x4021b0=_0x494ec0(0xe6,'WTH8'),_0x17f87d=await pool['query'](_0x4021b0,[_0x35ad36[_0x494ec0(0xf3,'Dh0&')]['email']]);if(_0x3a7bdc[_0x494ec0(0x176,'J6xd')](_0x17f87d[_0x494ec0(0x144,'EMGx')][_0x494ec0(0x10a,'KL3d')],0x0)){if(_0x3a7bdc[_0x494ec0(0x142,'[%$V')](_0x3a7bdc[_0x494ec0(0x174,'Dh0&')],_0x3a7bdc[_0x494ec0(0xed,'A3Fa')])){const _0x5998f5={};return _0x5998f5[_0x494ec0(0xf1,'k@@K')]=![],_0x5998f5[_0x494ec0(0x101,'%Xjb')]=_0x3a7bdc[_0x494ec0(0x141,'2r&S')],_0x25fa11[_0x494ec0(0x12f,'ybxH')](0x194)['json'](_0x5998f5);}else{_0x1a77bf[_0x494ec0(0x156,'$0s*')](_0x3a7bdc[_0x494ec0(0x14c,'ybxH')],_0x4a9911),_0x57b46e[_0x494ec0(0x111,'B$91')](_0x3a7bdc[_0x494ec0(0x158,'OYN*')],_0x11de57[_0x494ec0(0xe8,'5D1$')]);const _0x3446c0={};_0x3446c0['success']=![],_0x3446c0['message']=_0x3a7bdc[_0x494ec0(0x121,'tdmV')],_0x3446c0[_0x494ec0(0x105,'ybxH')]=_0x208cf5[_0x494ec0(0xe4,'7mZ$')],_0x94c74a['status'](0x1f4)[_0x494ec0(0xf9,'j*8I')](_0x3446c0);}}const _0x15c8dd={};_0x15c8dd[_0x494ec0(0xf6,'YL9a')]=!![],_0x15c8dd[_0x494ec0(0x16a,'2r&S')]=_0x17f87d['rows'][0x0],_0x25fa11[_0x494ec0(0xe7,'Ezdj')](0xc8)[_0x494ec0(0x115,'B5$l')](_0x15c8dd);}}catch(_0x1eca00){console[_0x494ec0(0x163,'eK]$')](_0x3a7bdc['ACjus'],_0x1eca00);const _0x3e4925={};_0x3e4925[_0x494ec0(0x11e,'EMGx')]=![],_0x3e4925[_0x494ec0(0x182,'eK]$')]=_0x3a7bdc[_0x494ec0(0x106,'OYN*')],_0x25fa11[_0x494ec0(0x14e,'tdmV')](0x1f4)['json'](_0x3e4925);}}),module[a3_0x473099(0x11d,'J!V*')]=router;
+const express = require('express');
+const router = express.Router();
+const pool = require('../config/database');
+
+// POST /api/users - Guardar información personal
+router.post('/', async (req, res) => {
+  try {
+    const { 
+      nombre, 
+      email, 
+      telefono, 
+      direccion, 
+      especialidades, 
+      video_confirmado,
+      country_id 
+    } = req.body;
+    
+    console.log('📥 Datos recibidos:', req.body);
+    
+    // Validar campos requeridos
+    if (!country_id) {
+      return res.status(400).json({
+        success: false,
+        message: 'El país es requerido'
+      });
+    }
+    
+    if (!email) {
+      return res.status(400).json({
+        success: false,
+        message: 'El email es requerido'
+      });
+    }
+    
+    // 🔥 Para JSONB, enviar el array/objeto directamente
+    // PostgreSQL automáticamente lo convierte a JSONB
+    const especialidadesData = especialidades || [];
+    
+    console.log('📝 Especialidades:', especialidadesData);
+    console.log('📝 Tipo:', typeof especialidadesData);
+    
+    // Verificar si el usuario ya existe
+    const existingUser = await pool.query('SELECT * FROM users WHERE email = $1', [email]);
+    
+    let user;
+    if (existingUser.rows.length > 0) {
+      // Actualizar usuario existente
+      const updateQuery = `
+        UPDATE users 
+        SET nombre = $1, 
+            telefono = $2, 
+            direccion = $3, 
+            especialidades = $4, 
+            video_confirmado = $5, 
+            country_id = $6, 
+            updated_at = CURRENT_TIMESTAMP
+        WHERE email = $7
+        RETURNING *
+      `;
+      const result = await pool.query(updateQuery, [
+        nombre, 
+        telefono, 
+        direccion, 
+        JSON.stringify(especialidadesData), // 🔥 PostgreSQL acepta JSON string para JSONB
+        video_confirmado, 
+        country_id, 
+        email
+      ]);
+      user = result.rows[0];
+      
+      console.log('✅ Usuario actualizado:', user.email);
+    } else {
+      // Crear nuevo usuario
+      const insertQuery = `
+        INSERT INTO users (nombre, email, telefono, direccion, especialidades, video_confirmado, country_id)
+        VALUES ($1, $2, $3, $4, $5, $6, $7)
+        RETURNING *
+      `;
+      const result = await pool.query(insertQuery, [
+        nombre, 
+        email, 
+        telefono, 
+        direccion, 
+        JSON.stringify(especialidadesData), // 🔥 PostgreSQL acepta JSON string para JSONB
+        video_confirmado, 
+        country_id
+      ]);
+      user = result.rows[0];
+      
+      console.log('✅ Usuario creado:', user.email);
+    }
+    
+    res.status(200).json({
+      success: true,
+      data: user,
+      message: existingUser.rows.length > 0 ? 'Usuario actualizado' : 'Usuario creado'
+    });
+    
+  } catch (error) {
+    console.error('❌ Error en /api/users:', error);
+    console.error('Stack:', error.stack);
+    res.status(500).json({
+      success: false,
+      message: 'Error al guardar usuario',
+      error: error.message
+    });
+  }
+});
+
+// GET /api/users/:email - Obtener usuario por email (con información del país)
+router.get('/:email', async (req, res) => {
+  try {
+    const query = `
+      SELECT u.*, c.country as country_name
+      FROM users u
+      LEFT JOIN country c ON u.country_id = c.id
+      WHERE u.email = $1
+    `;
+    const result = await pool.query(query, [req.params.email]);
+    
+    if (result.rows.length === 0) {
+      return res.status(404).json({
+        success: false,
+        message: 'Usuario no encontrado'
+      });
+    }
+    
+    res.status(200).json({
+      success: true,
+      data: result.rows[0]
+    });
+    
+  } catch (error) {
+    console.error('Error obteniendo usuario:', error);
+    res.status(500).json({
+      success: false,
+      message: 'Error al obtener usuario'
+    });
+  }
+});
+
+module.exports = router;
